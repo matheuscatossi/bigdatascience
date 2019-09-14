@@ -80,3 +80,11 @@ plot(m$mpg~m$wt)
 cor(m$mpg, m$wt)
 cor(m)
 
+# Exercício 01
+install.packages("swirl")
+library("swirl")
+swirl()
+
+
+
+
